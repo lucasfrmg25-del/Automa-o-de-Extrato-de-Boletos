@@ -5,6 +5,10 @@ Projeto de portfólio que transforma uma base CSV em extratos visuais individuai
 **Autor:** Lucas Freire Martins  
 **Tecnologias:** Python, Pandas, Pillow e Matplotlib.
 
+## Prévia do extrato
+
+![Extrato do cliente C010 com 15 boletos e dados parcialmente mascarados](Code_Generated_Image.png)
+
 ## Objetivo
 
 Automatizar a preparação de extratos por cliente: separar os boletos, calcular a quantidade e o valor total, formatar os dados e gerar imagens padronizadas. O projeto simula uma tarefa operacional de relatórios e demonstra tratamento de dados com Python.
@@ -65,7 +69,7 @@ O Matplotlib é utilizado para localizar as fontes, não para gerar gráficos.
 
 ## Arquivos do projeto
 
-Para publicar o projeto, mantenha estes arquivos na raiz do repositório:
+Arquivos principais disponíveis neste repositório:
 
 | Arquivo | Conteúdo |
 | --- | --- |
